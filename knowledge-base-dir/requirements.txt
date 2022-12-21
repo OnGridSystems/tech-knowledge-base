@@ -1,0 +1,11 @@
+mkdocs
+mkdocs-redirects
+pymdown-extensions
+mkdocs-autorefs
+mkdocs-literate-nav
+mkdocstrings
+mkdocstrings[python]
+mkdocs-click
+mdx_gh_links
+mkdocs-callouts
+mkdocs-material
